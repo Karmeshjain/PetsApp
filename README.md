@@ -1,5 +1,5 @@
 # Pets App
-===================================
+
 
 This app displays a list of pets and their related data that the user inputs. 
 I learned to build this app in a Udacity course ([Android Basics: Data Storage]
